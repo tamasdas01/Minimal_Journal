@@ -1,4 +1,4 @@
-Thrilled to share my latest project: Minimal Journal, a feature-rich daily journaling app built from the ground up with Flutter!
+Minimal Journal: a feature-rich daily journaling app built from the ground up with Flutter!
 This project was a fantastic opportunity to dive deep into building a complete, production-ready application. My goal was to create an experience that is both aesthetically pleasing and highly functional, giving users a private and customizable space for their thoughts.
 
 
@@ -21,6 +21,6 @@ Tech Stack: ⚙️
  * State Management: Provider
  * Persistence: Local File Storage (JSON)
  * Dependencies: share_plus, path_provider, shared_preferences
-I'm especially proud of implementing the theme and font customization which required a solid state management approach. Check out the code and a demo below! All feedback is welcome.
+I'm especially proud of implementing the theme and font customization which required a solid state management approach. Check out the code!! All feedback is welcome.
 
 #Flutter #Dart #MobileAppDevelopment #AndroidDev #Portfolio #ProjectShowcase #UIUX #StateManagement #Provider
