@@ -1,4 +1,4 @@
-name: test01
+name: MinimalJournal
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -79,7 +79,7 @@ flutter:
   # example:
 
   fonts:
-    - family: Roboto
+    - family: Pacifico
       fonts:
         - asset: fonts/Pacifico-Regular.ttf
     - family: Modulus
@@ -88,6 +88,9 @@ flutter:
     - family: JetBrainsMono
       fonts:
         - asset: assets/fonts/JetBrainsMonoNL-SemiBold.ttf
+    - family: Fantasque
+      fonts:
+        - asset: assets/fonts/Fantasque-Sans-Mono-Regular.otf
 
   #
   # For details regarding fonts from package dependencies,

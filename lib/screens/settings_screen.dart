@@ -8,7 +8,7 @@ class SettingsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Use the corrected font family names here
-    final availableFonts = ['Roboto', 'Modulus', 'JetBrainsMono'];
+    final availableFonts = ['Pacifico','Fantasque', 'Modulus', 'JetBrainsMono'];
 
     return Scaffold(
       appBar: AppBar(

@@ -1,9 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:path_provider/path_provider.dart';
-
 import '../models/journal_entry.dart';
 import 'add_entry_screen.dart';
 import 'settings_screen.dart';
@@ -145,16 +143,16 @@ class _HomeScreenState extends State<HomeScreen> {
                       .bodyLarge
                       ?.color
                       ?.withOpacity(0.6)),
-              hintText: 'Search Journals...',
-              suffixIcon: IconButton(
-                icon: Icon(Icons.mic,
-                    color: Theme.of(context)
-                        .textTheme
-                        .bodyLarge
-                        ?.color
-                        ?.withOpacity(0.6)),
-                onPressed: () {},
-              ),
+              hintText: 'Search...',
+              //suffixIcon: IconButton(
+                //icon: Icon(Icons.mic,
+                   // color: Theme.of(context)
+                       // .textTheme
+                       // .bodyLarge
+                       // ?.color
+                     //   ?.withOpacity(0.6)),
+                //onPressed: () {},
+             // ),
             ),
           ),
         ),
